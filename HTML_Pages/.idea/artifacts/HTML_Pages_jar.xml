@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HTML_Pages:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HTML_Pages_jar</output-path>
+    <root id="archive" name="HTML_Pages.jar">
+      <element id="module-output" name="HTML_Pages" />
+      <element id="module-test-output" name="HTML_Pages" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/resources/junit-4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/resources/hamcrest-core-1.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
